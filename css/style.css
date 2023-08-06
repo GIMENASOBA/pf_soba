@@ -1,0 +1,130 @@
+.header{
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+}
+.header img{
+    width: 100px;
+    margin: 0;
+    padding: 0;
+}
+
+.header p {
+    color:rgb(164, 194, 112);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:larger;
+    background-color: rgb(64, 87, 64);
+    line-height: 200%;
+    padding: 0% 2%;
+    margin: 0%;
+    border: 0%;
+}
+
+.header ul{
+    list-style-type: none;
+    text-transform: uppercase;
+    font-size: 100%;
+    text-align:left;
+    padding: 0% 0%;
+    margin: 5%;
+    
+}
+.header a{
+    color:darkslategray;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
+
+.main p{
+    color: black;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     font-weight: bold;
+     text-align-last:left;
+     padding: 0% 0% 5% 0%;
+}
+
+.main .titulo{
+    color:rgb(83, 107, 42);
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     font-weight: 100;
+     margin: 5% 5%;
+     text-align-last: center;
+        }
+.main img {
+    width: 380px;
+}
+
+.main p{
+    color: black;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     text-align-last:left;
+     padding: 0% 0% 5% 0%;
+}
+
+.footer p{
+    color:darkolivegreen;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:larger;
+    text-align: center;
+    line-height: 10%;
+}
+
+.footer img {
+    width: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.footer .p {
+    margin-top: 15%;
+}
+
+.main .cliente{
+    line-height: 200%;
+    padding: 0% 2%;
+    margin: 0%;
+    border: 0%;
+}
+.main .opinion{
+    color:rgb(20, 20, 20);
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     font-weight: 100;
+     margin: 5% 5%;
+     font-size: smaller;
+}
+
+.header ul{
+display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.body {
+    margin: 2% 2% 2% 2%;
+}
+.main .historia{
+    color:rgb(83, 107, 42);
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     font-weight: 100;
+     margin: 5% 5%;
+        }
+
+.footer .volver{
+    list-style-type: none;
+    font-size: 100%;
+    text-align:left;
+    padding: 0% 0%;
+    margin: 5%;
+    text-align: center}
+
+
+    .footer a{
+        
+        color:rgb(0, 0, 0);
+        text-decoration: none;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: small;
+}
